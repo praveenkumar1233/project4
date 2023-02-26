@@ -5,7 +5,7 @@ this is a webbased application developed for health based websit in india
 
 
 **PROJECTLINK:https://white-flower-0f687a500.2.azurestaticapps.net/
-**project demo vedieo link**
+**project demo vedieo link:https://youtu.be/HC0UldGzEto
 
 
 ##futeres and functionalites
